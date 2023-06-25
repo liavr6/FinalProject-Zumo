@@ -15,4 +15,4 @@ Figure 2 shows the different modules (both physical and logical) of the system
 
 ![image](https://github.com/liavr6/FinalProject-Zumo/assets/56167356/666aecde-4f2c-4eae-8ec7-d966a35484c9)
 
-Figure 3 shows the distance from the wall to the robot's right as a function of the time in a 15+ minutes run
+Figure 3 shows the distance from the wall to the robot's right as a function of the time in a 15+ minutes run.

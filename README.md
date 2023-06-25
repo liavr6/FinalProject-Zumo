@@ -5,10 +5,14 @@ This project aims to develop an autonomous car capable of navigating inside an a
 
 
 ![image](https://github.com/liavr6/FinalProject-Zumo/assets/56167356/1184ef9d-3194-4e98-9c5f-3c28954a8271)
+
+
 Figure 1 shows the physical layout of the autonomous car, with the LiDAR at the top of it.
 
 ![image](https://github.com/liavr6/FinalProject-Zumo/assets/56167356/588d3504-d8cb-4489-bad2-acb2bd8793ff)
+
 Figure 2 shows the different modules (both physical and logical) of the system
 
-![image](https://github.com/liavr6/FinalProject-Zumo/assets/56167356/8cf1e694-7482-4285-b2e3-7f6573df99c4)
+![image](https://github.com/liavr6/FinalProject-Zumo/assets/56167356/666aecde-4f2c-4eae-8ec7-d966a35484c9)
+
 Figure 3 shows the distance from the wall to the robot's right as a function of the time in a 15+ minutes run
